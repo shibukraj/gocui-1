@@ -4,7 +4,7 @@ package main
 import (
 	//"encoding/json"
 	"github.com/nsf/termbox-go"
-	"goconsole/cui"
+	"github.com/sinni800/gocui/cui"
 	"runtime"
 	"time"
 )
