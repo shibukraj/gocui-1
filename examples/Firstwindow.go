@@ -5,7 +5,6 @@ import (
 	//"encoding/json"
 	"github.com/nsf/termbox-go"
 	"github.com/sinni800/gocui/cui"
-	"runtime"
 	"time"
 )
 
